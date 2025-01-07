@@ -3,13 +3,13 @@
 2. Do not use your personal/work Gmail account or anything important to you. Instead, use a throwaway account. Do not enter personal data such as your first name, last name, etc.
 3. If you have trust issues, kindly go to [VirusTotal](https://www.virustotal.com/gui/home/url) and [ScamAdviser](https://www.scamadviser.com/) to scan or check the website for safety. Do your research because I'm too lazy to check them all. I believe it's safe, but don't rely on me; verify it yourself for your own safety. Awareness is important.
 4. Not everything is free because there is a limit. Some websites don't allow us to delete our account, so just leave it as long as you don't use sensitive data.
-5. Be mindful. That's all.
+5. Be mindful. That's all. OR Follow your Trust Issues for your own good.
 
    I do not have time to add descriptions to every link because my health is not good day and night.
 ---
-Here is the links I collected.
+Here are the links I've collected, which I hope will be useful to you.
 
-Artificial Intelligence
+##### Artificial Intelligence
 1. https://podcastle.ai/
 2. https://app.askcodi.com/chat/
 3. https://code-mentor.ai/
@@ -55,8 +55,7 @@ Artificial Intelligence
 44. https://www.codeconvert.ai/app 
 45. https://www.taskade.com/generate/programming/html-code 
 
-
-Useful Websites
+##### Useful Websites
 1. https://tinywow.com/
 2. https://www.unscreen.com/
 3. https://www.remove.bg/
@@ -76,7 +75,7 @@ Useful Websites
 18. https://www.myheritage.com/deep-nostalgia
 19. https://buildingjavaprograms.com/samples/3ed/ch14-2ed-gui-sample.pdf
 
-Useful Site for Web Development
+##### Useful Site for Web Development
 1. https://colorhunt.co/
 2. https://cheatography.com/
 3. https://codepen.io/
@@ -91,22 +90,19 @@ Useful Site for Web Development
 14. https://www.blobmaker.app/
 15. https://cssgrid-generator.netlify.app/
 
-Other Stuff
+##### Other Stuff
 1. https://2050.earth/
 2. https://ray.so
 
-RESEARCH STUFF
+##### Research Things
 - https://www.semanticscholar.org
 - https://scholar-chat.com/chat
 - https://www.perplexity.ai/
 - https://scholar.google.com/
-
 - https://eric.ed.gov/
 - https://commontools.org
 - https://getliner.com
 - https://www.humanizeai.pro/
-
-RESEARCH RRL
 - https://ejournals.ph
 - https://cia.gov
 - https://doaj.org
