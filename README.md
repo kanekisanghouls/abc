@@ -1,6 +1,3 @@
-
-## For your tools, learning, development, etc., I hope GitHub won't let me down. I'm just sharing for those who struggle and need help.
-
 ## This is important to read and follow!
 1. Before you click any link, make sure you have [Malwarebytes](https://www.malwarebytes.com/) on your PC/Laptop as well as on your Chrome browser for your own safety.
 2. Do not use your personal/work Gmail account or anything important to you. Instead, use a throwaway account. Do not enter personal data such as your first name, last name, etc.
